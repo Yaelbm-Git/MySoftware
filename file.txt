@@ -1,4 +1,5 @@
 
 print("First Commit")
 
-
+def click():
+	print("Click")
