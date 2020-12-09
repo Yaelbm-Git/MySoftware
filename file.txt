@@ -2,3 +2,13 @@
 print("First Commit")
 
 
+
+
+
+
+
+
+def welcome():
+	print("New Screen")
+
+
